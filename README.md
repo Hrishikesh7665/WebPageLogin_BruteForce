@@ -139,22 +139,28 @@ This tool tries to connect by exploiting the library of passwords that it has in
 You can set your own LAB for testing this tool with XAMP by following this steps: 
 
 - Step 1
-Install XAMP
+
+*Install XAMP*
 
 - Step 2
-Download This PHP Webpage [click here for download](https://test.php)
+
+*Download This PHP Webpage [click here for download](https://test.php)*
 
 - Step 3
+
 Create a new folder with the name 'LoginPage' in 'C:\xampp\htdocs\'
 
 - Step 4
-Copy the 'loginpage.php' file into the 'C:\xampp\htdocs\LoginPage'
+
+*Copy the 'loginpage.php' file into the 'C:\xampp\htdocs\LoginPage'*
 
 - Step 5
-Visit '127.0.0.1/LoginPage/loginpage.php'
+
+*Visit '127.0.0.1/LoginPage/loginpage.php'*
 
 - Step 6
-Nw your test lab is ready. Happy Hacking.
+
+*Now your test lab is ready. Happy Hacking.*
 
 
 ## NOTE:
