@@ -20,8 +20,9 @@ A GUI based python tool for Brute Force login in a web page. Hack accounts on an
 2. Automated Mode (Scrap HTML Tags Automatically).
 3. Manual Mode (User need to provide HTML Tags Manually).
 4. You Can Adjust Thread Numbers.
-5. Easy To Use.
-6. user Friendly.
+5. All the Successful BruteForce Credentials will be Stored in Database to View Letter from History Section.
+6. Easy to Use.
+7. user Friendly.
 
 
 ## Requirements
